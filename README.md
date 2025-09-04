@@ -1,6 +1,6 @@
 # K-RagRec
 
-**This is the pytorch implementation for our ACL paper Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation.**
+**This is the pytorch implementation for our ACL paper "Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation".**
 
 ## Environment
 
@@ -49,3 +49,23 @@ bash run.sh
 - If you want to run K-RagRec on other datasets, you should first process the datasets, and change the datasets name. We provide 3 datasets in our environment.
 - Change the **llm_model_name** (e.g., 8b) to adopt other llm model.
 - Our experiments are performed on two NVIDIA A6000-48G GPUs. If you have only one GPU, please use *graph_llm_for_one_GPU*.
+
+
+
+### 🌹Please Cite Our Work If Helpful:
+
+
+
+**Thanks! / 谢谢! / ありがとう! / merci! / 감사! / Danke! / спасибо! / gracias! ...**
+
+
+
+```
+@article{wang2025knowledge,
+            title={Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation},
+            author={Wang, Shijie and Fan, Wenqi and Feng, Yue and Ma, Xinyu and Wang, Shuaiqiang and Yin, Dawei},
+            journal={arXiv preprint arXiv:2501.02226},
+            year={2025}
+          }
+```
+
