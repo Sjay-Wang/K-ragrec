@@ -61,11 +61,12 @@ bash run.sh
 
 
 ```
-@article{wang2025knowledge,
-            title={Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation},
-            author={Wang, Shijie and Fan, Wenqi and Feng, Yue and Ma, Xinyu and Wang, Shuaiqiang and Yin, Dawei},
-            journal={arXiv preprint arXiv:2501.02226},
-            year={2025}
-          }
+@inproceedings{wang2025knowledge,
+  title={Knowledge graph retrieval-augmented generation for llm-based recommendation},
+  author={Wang, Shijie and Fan, Wenqi and Feng, Yue and Shanru, Lin and Ma, Xinyu and Wang, Shuaiqiang and Yin, Dawei},
+  booktitle={Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+  pages={27152--27168},
+  year={2025}
+}
 ```
 
